@@ -34,7 +34,7 @@
         "fieldConfig": {
           "defaults": {
             "color": {
-              "mode": "palette-classic"
+              "mode": "continuous-blues"
             },
             "custom": {
               "axisBorderShow": false,
