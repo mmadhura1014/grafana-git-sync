@@ -92,7 +92,7 @@
             "placement": "bottom",
             "showLegend": true
           },
-          "orientation": "auto",
+          "orientation": "horizontal",
           "showValue": "auto",
           "stacking": "none",
           "tooltip": {
@@ -178,7 +178,7 @@
           "h": 8,
           "w": 12,
           "x": 0,
-          "y": 0
+          "y": 8
         },
         "id": 1,
         "options": {
