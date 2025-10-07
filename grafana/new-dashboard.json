@@ -92,7 +92,7 @@
             "placement": "bottom",
             "showLegend": true
           },
-          "orientation": "horizontal",
+          "orientation": "vertical",
           "showValue": "auto",
           "stacking": "none",
           "tooltip": {
